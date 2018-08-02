@@ -1,0 +1,13 @@
+[‎02/‎08/‎2018 14:22]  Evan Rolfe:  
+https://www.fuzzysecurity.com/ 
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ 
+
+there are more, but i usually just google for stuff when I have a specific problem
+
+
+i would recommend doing some vulnhub vm's before the OSCP to get some practice
+depending on how much experience you have..
+
+
+you should google "oscp-like vulnhub machines" there are lists of vm's which are similar to the oscp labs
+ 
