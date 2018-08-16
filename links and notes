@@ -11,3 +11,8 @@ depending on how much experience you have..
 
 you should google "oscp-like vulnhub machines" there are lists of vm's which are similar to the oscp labs
  
+ 
+ For linux https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ 
+For Windows this: http://www.fuzzysecurity.com/tutorials/16.html 
+and this: http://www.youtube.com/watch?v=kMG8IsCohHA 
+For the Linux boxes, you can find some handy pre-built privesc checking scripts
