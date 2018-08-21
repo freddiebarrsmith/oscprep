@@ -1,4 +1,4 @@
-[‎02/‎08/‎2018 14:22]  Evan Rolfe:  
+[‎02/‎08/‎2018 14:22]  
 https://www.fuzzysecurity.com/ 
 https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ 
 
@@ -16,3 +16,43 @@ you should google "oscp-like vulnhub machines" there are lists of vm's which are
 For Windows this: http://www.fuzzysecurity.com/tutorials/16.html 
 and this: http://www.youtube.com/watch?v=kMG8IsCohHA 
 For the Linux boxes, you can find some handy pre-built privesc checking scripts
+
+
+[‎21/‎08/‎2018 11:34]  Freddie Barr-Smith:  
+when you got the documentation / report rejected
+why was that
+(only asking as im doing it myself and want to avoid same problem)
+ 
+[‎21/‎08/‎2018 11:35]  
+the main reason was "not enough details on buffer overflow exploitation"
+I didn't include screenshots of debugger 
+I just listed the values as bulletpoints
+describing issue in couple paragraphs
+so include enough screenshots
+ 
+[‎21/‎08/‎2018 11:35]  Freddie Barr-Smith:  
+Okay cool will do
+ 
+[‎21/‎08/‎2018 11:35] 
+on every single issu
+ 
+[‎21/‎08/‎2018 11:35]  Freddie Barr-Smith:  
+:)
+ 
+[‎21/‎08/‎2018 11:36] 
+it's gonna be slightly different from reports where we avoid meaningless screenshots
+in there you better do it
+also
+ 
+[‎21/‎08/‎2018 11:36]  Freddie Barr-Smith:  
+haha
+okay
+ 
+[‎21/‎08/‎2018 11:36]  
+very important thing why I also probably lost points was not including 10 point flags
+
+basically when you get initial shell, you will get local.txt file with the hash, take a screenshot of that together with ipconfig, whoami and hostname commands
+when you privesc, you will get proof.txt again with the hash, do the same screenshot it
+basically very carefully read the instructions and blindly follow them
+don't go in mindset "oh this makes no sense, I will do it my way..." :D
+ 
